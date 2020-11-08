@@ -1,0 +1,4 @@
+mmcv
+networkx>=2.2,<2.3
+numba==0.48.0
+trimesh>=2.35.39,<2.35.40
